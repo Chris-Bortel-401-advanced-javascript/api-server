@@ -1,0 +1,5 @@
+{
+  "categories" : [{"id": 1}, {"name": ""} , {"display_name": ""} ,{"description": ""}] ,
+  
+  "products": [{"id": 1}, {"category": ""}, {"name": ""} , {"display_name": ""} ,{"description": ""}]
+}
