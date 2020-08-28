@@ -53,6 +53,14 @@
       "price": 1.99,
       "inStock": 0,
       "id": 9
+    },
+    {
+      "name": "lion",
+      "category": "animal",
+      "description": "scary",
+      "price": 1.99,
+      "inStock": 0,
+      "id": 12
     }
   ]
 }
