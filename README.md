@@ -5,7 +5,7 @@
 ### Author: Chris Bortel
 
 ### Pull requests
-- [Class-06](git)
+- [Class-06](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/1)
 
 ### Setup
 
