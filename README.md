@@ -5,7 +5,7 @@
 ### Author: Chris Bortel
 
 ### Pull requests
-- [Class-06]()
+- [Class-06](git)
 
 ### Setup
 
