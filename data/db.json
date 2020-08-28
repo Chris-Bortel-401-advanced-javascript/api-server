@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "name": "Bob",
+      "id": "nci6dZe"
+    },
+    {
+      "name": "Billy",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "food",
+      "name": "orange",
+      "display_name": "yellow",
+      "description": "bad",
+      "id": 4
+    },
+    {
+      "category": "food",
+      "name": "red",
+      "display_name": "yellow",
+      "description": "ripe",
+      "id": 5
+    },
+    {
+      "category": "food",
+      "name": "pink",
+      "display_name": "yellow",
+      "description": "ripe",
+      "id": 6
+    }
+  ]
+}
