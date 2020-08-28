@@ -1,17 +1,28 @@
 {
   "categories": [
-    {
-      "id": 1,
-      "name": "",
-      "display_name": "",
-      "description": ""
-    },
-    {
-      "name": "charles",
-      "display_name": "big pappa",
-      "description": "I don't know about that guy...",
-      "id": 2
-    }
+    [
+      {
+        "name": "cheese",
+        "display_name": "feta",
+        "description": "I do not like it"
+      }
+    ],
+    [
+      {
+        "name": "bob",
+        "display_name": "teacher bob",
+        "description": "teacher",
+        "id": ""
+      }
+    ],
+    [
+      {
+        "name": "bob",
+        "display_name": "teacher bob",
+        "description": "teacher",
+        "id": 3
+      }
+    ]
   ],
   "products": [
     {
@@ -23,17 +34,25 @@
     },
     {
       "category": "food",
-      "name": "orange",
-      "display_name": "yellow",
-      "description": "bad",
-      "id": 4
-    },
-    {
-      "category": "food",
       "name": "pink",
       "display_name": "yellow",
       "description": "ripe",
       "id": 6
+    },
+    {
+      "category": "food",
+      "name": "banana",
+      "display_name": "yellow",
+      "description": "yum",
+      "id": 8
+    },
+    {
+      "name": "rubber ducky",
+      "category": "toy",
+      "description": "yellow",
+      "price": 1.99,
+      "inStock": 0,
+      "id": 9
     }
   ]
 }
