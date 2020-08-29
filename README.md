@@ -16,6 +16,7 @@
 #### `.env` requirements
 
 - `PORT` - 3000
+- Do I need routes here?
 
 #### Running the app
 - To start the json server run: ``» json-server --watch ./data/db.json``
