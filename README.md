@@ -24,7 +24,8 @@
 - Run ``npm start`` to spin the server up
 
 <!-- - To start the json server run: ``» json-server --watch ./data/db.json`` -->
-
+ #### Questions
+ - with my post route, I am able to add onto my count, but I am unable to add it into my object
 #### Tests
 
 #### UML
