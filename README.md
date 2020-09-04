@@ -1,4 +1,4 @@
-# LAB - 06
+# LAB - 08
 
 ## Api Server
 
@@ -7,6 +7,7 @@
 ### Pull requests
 - [Class-06](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/1)
 - [Class-07](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/3)
+- [Class-08](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/4)
 
 ### Swagger Docs
 - **I need to update my swagger docs**
