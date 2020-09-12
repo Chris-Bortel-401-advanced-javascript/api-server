@@ -1,4 +1,4 @@
-# LAB - 06
+# LAB - 08
 
 ## Api Server
 
@@ -7,8 +7,10 @@
 ### Pull requests
 - [Class-06](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/1)
 - [Class-07](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/3)
+- [Class-08](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/5)
 
 ### Swagger Docs
+- **I need to update my swagger docs**
 - [Categories](https://app.swaggerhub.com/apis/bortelcc/categories-api/0.1#/default/put_categories_2)
 - [Products](https://app.swaggerhub.com/apis/bortelcc/products-api/0.1#/default/put_products_8)
 
