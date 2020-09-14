@@ -8,6 +8,7 @@
 - [Class-06](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/1)
 - [Class-07](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/3)
 - [Class-08](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/5)
+- [Class-09](https://github.com/Chris-Bortel-401-advanced-javascript/api-server/pull/7)
 
 ### Swagger Docs
 - **I need to update my swagger docs**
